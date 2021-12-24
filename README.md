@@ -7,8 +7,11 @@ such a giant toy which I don't recommend you bringing it into TnH mode
 Mod Includes:
 
 1、The gun it self (spawn with a belt box)
+
 2、Mag drum
+
 3、A weird icon that doesn't do anything
+
 
 Only issues:
 
