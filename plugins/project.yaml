@@ -1,0 +1,13 @@
+version: 1
+dependencies:
+  hard:
+    h3vr.otherloader: 1.0.0
+assets:
+  runtime:
+    sequential: true
+    nested:
+    - assets:
+      - path: mg0815(test)
+        plugin: h3vr.otherloader
+        loader: item_unordered
+...
