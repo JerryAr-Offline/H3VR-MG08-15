@@ -68,3 +68,5 @@ have some little incorrect belt display.
 1.2.4 Bipod can now stand more stably.
 
 1.2.5 Some little change.
+
+1.2.6 Changed bipod type to fixed.
