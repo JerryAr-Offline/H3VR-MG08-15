@@ -1,0 +1,11 @@
+{
+	"name": "MG0815",
+	"version_number": "1.2.6",
+	"description": "A big old WWI machinegun",
+	"website_url": "",
+	"dependencies": 
+                  [
+	    "devyndamonster-OtherLoader-1.0.0",
+                      "cityrobo-OpenScripts-1.1.14"
+	]
+}
